@@ -1,3 +1,8 @@
+<h2>Hey there!</h2>
+
+<h3> About me </h3>
+
+```python
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
@@ -19,3 +24,6 @@ class Human:
 me = human()
 me.introduce_myself()
 me.gtihub()
+```
+<h3>Want to contact me?</h3>
+-✉ Email = egohalocyctus@gmail.com
