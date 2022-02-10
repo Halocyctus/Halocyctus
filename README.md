@@ -18,7 +18,9 @@ class Human:
         print("Studying Cybersec and proud member of kucss")
     
     def github(self):
-        print("I'm going to be uploading interesting tools that can be useful for me/you in the future") 
+        print("I'm going to be uploading interesting stuff that can be useful for me/you in the future")
+        print("Mostly scripts")
+        
 
 ################main######################
 me = human()
