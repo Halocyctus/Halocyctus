@@ -6,7 +6,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-class Human:
+class human:
 
     def __init__(self):
         self.name = "Halocytus"
