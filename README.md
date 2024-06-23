@@ -1,4 +1,4 @@
-<h2>Hey there!</h2>
+<h2>Welcome</h2>
 
 <h3> About me </h3>
 
@@ -12,10 +12,6 @@ class human:
         self.name = "Halocytus"
         self.role = "Cybersecurity Enthusiast"
         self.language_spoken = ["es", "en", "fr"]
-
-    def introduce_myself(self):
-        print("Currently script kiddie and will always be")
-        print("Studying Cybersec and proud member of kucss")
     
     def github(self):
         print("I'm going to be uploading interesting stuff that can be useful for me/you in the future")
@@ -24,7 +20,6 @@ class human:
 
 ################main######################
 me = human()
-me.introduce_myself()
 me.gtihub()
 ```
 <h3>Want to contact me?</h3>
